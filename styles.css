@@ -1057,6 +1057,7 @@ align-content: center;
             position: absolute;
             right: 0;
             height: 80%;
+            top: 15px;
         }
         .arrow-left-wrapper{
             position: absolute;
